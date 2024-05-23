@@ -1,0 +1,31 @@
+/* .slick-dots-right {
+   position: absolute;
+   top: 50%;
+   right: -30px;
+   transform: translateY(-50%);
+ }
+ 
+ .slick-dots-right ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+ }
+ 
+ .slick-dots-right li {
+   margin: 5px 0;
+ }
+ 
+ .slick-dots-right button {
+   font-size: 0;
+   width: 12px;
+   height: 12px;
+   background: #ccc;
+   border: none;
+   border-radius: 50%;
+   cursor: pointer;
+ }
+ 
+ .slick-dots-right .slick-active button {
+   background: #fbbf24;
+ }
+  */
